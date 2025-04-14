@@ -17,3 +17,8 @@
 - 🌍 APIs & Integrations (Flask REST, RapidAPI)
 - 🐾 Real-World Projects: Fall Detection, Animal Rescue Platform, Home Price Prediction
 
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+
