@@ -3,9 +3,9 @@
 | 💻 Languages | 🌐 Frontend | 🧠 Backend | 🛢️ Databases | ⚙️ Tools & DevOps |
 |-------------|-------------|------------|----------------|------------------|
 | Python 🐍   | HTML5 🔤     | Flask 🍶    | MySQL 🐬        | Git 🔧           |
-| JavaScript ✨ | CSS3 🎨     | Node.js 🌲  | MongoDB 🍃      | GitHub 🐱        |
+| JavaScript✨ | CSS3 🎨     | Node.js 🌲  | MongoDB 🍃      | GitHub 🐱        |
 | C++ 🚀       | React ⚛️     | Express ⚡  | SQLite 📁       | VS Code 🧠       |
-|             |             |            |                | Postman 📬       |
+|  Java        |  Tkinter       |            |                | Postman 📬       |
 
 > 🌟 Currently exploring: **Cloud (AWS), Docker, TensorFlow, and Deployment automation**
 
