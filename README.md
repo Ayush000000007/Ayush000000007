@@ -22,3 +22,10 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 
+## 💻 Competitive Programming
+
+- 🧠 Practicing on [LeetCode](https://leetcode.com/YOUR_USERNAME/)
+- ![LeetCode Badge](https://img.shields.io/badge/LeetCode-Active-brightgreen?logo=leetcode)
+- ![Solved Problems](https://leetcard.jacoblin.cool/YOUR_USERNAME)
+
+
