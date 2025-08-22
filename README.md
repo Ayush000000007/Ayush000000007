@@ -26,5 +26,5 @@
 
 - 🧠 Practicing on [LeetCode](https://leetcode.com/Ayushhh_104/)
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-Active-brightgreen?logo=leetcode)
-- [![Solved Problems & Rating](https://leetcard.jacoblin.cool/Ayushhh_104?ext=contest)](https://leetcode.com/Ayushhh_104/)
+- [![Solved Problems & Rating](https://leetcard.jacoblin.cool/Ayushhh_104?ext=contest)](https://leetcode.com/u/Ayush_lc007/)
 
